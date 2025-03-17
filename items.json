@@ -6,20 +6,152 @@
     "price": 280,
     "description": "Sturdy bed frame, suits any bedroom aesthetic.",
     "imageUrls": [
-      "https://raw.githubusercontent.com/skumaran24/item-listing/refs/heads/main/images/IMG_7494.JPEG",
-      "https://raw.githubusercontent.com/skumaran24/item-listing/refs/heads/main/images/IMG_7494.JPEG"
+      "https://raw.githubusercontent.com/skumaran24/item-listing/main/images/king_bed_1.jpg",
+      "https://raw.githubusercontent.com/skumaran24/item-listing/main/images/king_bed_2.jpg"
     ],    
     "contact": "https://wa.me/60122988508"
   },
   {
     "id": 2,
+    "name": "King Mattress",
+    "category": "Furniture",
+    "price": 360,
+    "description": "Comfortable, high-quality mattress in excellent condition.",
+    "imageUrls": [
+      "https://raw.githubusercontent.com/skumaran24/item-listing/main/images/king_mattress_1.jpg"
+    ],
+    "contact": "https://wa.me/60122988508"
+  },
+  {
+    "id": 3,
+    "name": "Sofa",
+    "category": "Furniture",
+    "price": 520,
+    "description": "Spacious and cozy, perfect for lounging or entertaining guests.",
+    "imageUrls": [
+      "https://raw.githubusercontent.com/skumaran24/item-listing/main/images/sofa_1.jpg"
+    ],
+    "contact": "https://wa.me/60122988508"
+  },
+  {
+    "id": 4,
+    "name": "Dining Table + Chairs",
+    "category": "Furniture",
+    "price": 250,
+    "description": "Sturdy, elegant dining set with a modern finish. (Table has some damages)",
+    "imageUrls": [
+      "https://raw.githubusercontent.com/skumaran24/item-listing/main/images/dining_table_1.jpg"
+    ],
+    "contact": "https://wa.me/60122988508"
+  },
+  {
+    "id": 5,
+    "name": "Queen Bed Frame",
+    "category": "Furniture",
+    "price": 225,
+    "description": "High-quality bed frame, barely used.",
+    "imageUrls": [
+      "https://raw.githubusercontent.com/skumaran24/item-listing/main/images/queen_bed_1.jpg"
+    ],
+    "contact": "https://wa.me/60122988508"
+  },
+  {
+    "id": 6,
+    "name": "Queen Mattress",
+    "category": "Furniture",
+    "price": 190,
+    "description": "Comfortable mattress in near-new condition. (Some decolouration on the edges from bed sheets)",
+    "imageUrls": [
+      "https://raw.githubusercontent.com/skumaran24/item-listing/main/images/queen_mattress_1.jpg"
+    ],
+    "contact": "https://wa.me/60122988508"
+  },
+  {
+    "id": 7,
+    "name": "Working Table",
+    "category": "Furniture",
+    "price": 49,
+    "description": "Simple and functional desk, perfect for study or home office. (2 available)",
+    "imageUrls": [
+      "https://raw.githubusercontent.com/skumaran24/item-listing/main/images/working_table_1.jpg"
+    ],
+    "contact": "https://wa.me/60122988508"
+  },
+  {
+    "id": 8,
+    "name": "Chair",
+    "category": "Furniture",
+    "price": 49,
+    "description": "Ergonomic and comfortable, great for long hours. (2 available)",
+    "imageUrls": [
+      "https://raw.githubusercontent.com/skumaran24/item-listing/main/images/chair_1.jpg"
+    ],
+    "contact": "https://wa.me/60122988508"
+  },
+  {
+    "id": 9,
+    "name": "Bedside Table",
+    "category": "Furniture",
+    "price": 49,
+    "description": "Compact and stylish, fits any bedroom decor.",
+    "imageUrls": [
+      "https://raw.githubusercontent.com/skumaran24/item-listing/main/images/bedside_table_1.jpg"
+    ],
+    "contact": "https://wa.me/60122988508"
+  },
+  {
+    "id": 10,
     "name": "Washing Machine",
     "category": "Electronics",
     "price": 400,
     "description": "Energy-efficient washing machine with multiple settings.",
     "imageUrls": [
-      "https://raw.githubusercontent.com/skumaran24/item-listing/refs/heads/main/images/IMG_7494.JPEG",
-      "https://raw.githubusercontent.com/skumaran24/item-listing/refs/heads/main/images/IMG_7494.JPEG"
+      "https://raw.githubusercontent.com/skumaran24/item-listing/main/images/washing_machine_1.jpg",
+      "https://raw.githubusercontent.com/skumaran24/item-listing/main/images/washing_machine_2.jpg"
+    ],
+    "contact": "https://wa.me/60122988508"
+  },
+  {
+    "id": 11,
+    "name": "Fridge",
+    "category": "Electronics",
+    "price": 400,
+    "description": "Spacious and reliable, works like new.",
+    "imageUrls": [
+      "https://raw.githubusercontent.com/skumaran24/item-listing/main/images/fridge_1.jpg"
+    ],
+    "contact": "https://wa.me/60122988508"
+  },
+  {
+    "id": 12,
+    "name": "Modem",
+    "category": "Electronics",
+    "price": 200,
+    "description": "Reliable, high-speed modem.",
+    "imageUrls": [
+      "https://raw.githubusercontent.com/skumaran24/item-listing/main/images/modem_1.jpg"
+    ],
+    "contact": "https://wa.me/60122988508"
+  },
+  {
+    "id": 13,
+    "name": "Microwave",
+    "category": "Electronics",
+    "price": 35,
+    "description": "Works perfectly, minimal usage.",
+    "imageUrls": [
+      "https://raw.githubusercontent.com/skumaran24/item-listing/main/images/microwave_1.jpg"
+    ],
+    "contact": "https://wa.me/60122988508"
+  },
+  {
+    "id": 14,
+    "name": "Monitor",
+    "category": "Electronics",
+    "price": 150,
+    "description": "Clear display, great for work or gaming.",
+    "imageUrls": [
+      "https://raw.githubusercontent.com/skumaran24/item-listing/main/images/monitor_1.jpg"
     ],
     "contact": "https://wa.me/60122988508"
   }

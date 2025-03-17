@@ -5,7 +5,10 @@
     "category": "Furniture",
     "price": 280,
     "description": "Sturdy bed frame, suits any bedroom aesthetic.",
-    "imageUrl": "https://raw.githubusercontent.com/skumaran24/item-listing/refs/heads/main/images/IMG_7494.JPEG",                
+    "imageUrls": [
+      "https://raw.githubusercontent.com/skumaran24/item-listing/refs/heads/main/images/IMG_7494.JPEG",
+      "https://raw.githubusercontent.com/skumaran24/item-listing/refs/heads/main/images/IMG_7494.JPEG"
+    ],    
     "contact": "https://wa.me/60122988508"
   },
   {
@@ -14,7 +17,10 @@
     "category": "Electronics",
     "price": 400,
     "description": "Energy-efficient washing machine with multiple settings.",
-    "imageUrl": "https://raw.githubusercontent.com/skumaran24/item-listing/refs/heads/main/images/IMG_7494.JPEG",                
+    "imageUrls": [
+      "https://raw.githubusercontent.com/skumaran24/item-listing/refs/heads/main/images/IMG_7494.JPEG",
+      "https://raw.githubusercontent.com/skumaran24/item-listing/refs/heads/main/images/IMG_7494.JPEG"
+    ],
     "contact": "https://wa.me/60122988508"
   }
 ]

@@ -181,5 +181,19 @@
       
     ],
     "contact": "https://wa.me/60122988508"
+  },
+  {
+    "id": 15,
+    "name": "Mazda CX-5 MAXX 2012 (4x2)",
+    "category": "Car",
+    "price": 12000,
+    "description": "162,000 KM, 2.0L Petrol, 6-speed automatic, full service history, excellent condition, just serviced next service 172,000 KM, More pictures available on request.",
+    "imageUrls": [
+      "https://raw.githubusercontent.com/skumaran24/item-listing/refs/heads/main/images/car1.JPG",
+      "https://raw.githubusercontent.com/skumaran24/item-listing/refs/heads/main/images/car2.JPG",
+      "https://raw.githubusercontent.com/skumaran24/item-listing/refs/heads/main/images/car3.JPG"
+      
+    ],
+    "contact": "https://wa.me/60122988508"
   }
 ]

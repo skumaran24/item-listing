@@ -92,7 +92,7 @@
     "name": "Working Table",
     "category": "Furniture",
     "price": 49,
-    "description": "Simple and functional desk, perfect for study or home office. (2 available)",
+    "description": "Simple and functional desk, perfect for study or home office.",
     "imageUrls": [
       "https://raw.githubusercontent.com/skumaran24/item-listing/refs/heads/main/images/officetable1.JPEG"
     ],
@@ -103,7 +103,7 @@
     "name": "Chair",
     "category": "Furniture",
     "price": 49,
-    "description": "Ergonomic and comfortable, great for long hours. (2 available)",
+    "description": "Ergonomic and comfortable, great for long hours.",
     "imageUrls": [
       "https://raw.githubusercontent.com/skumaran24/item-listing/refs/heads/main/images/chair2.JPEG"
     ],
@@ -114,7 +114,7 @@
     "name": "Bedside Table",
     "category": "Furniture",
     "price": 49,
-    "description": "Compact and stylish, fits any bedroom decor.",
+    "description": "Compact and stylish, fits any bedroom decor. Two units for $90",
     "imageUrls": [
       "https://raw.githubusercontent.com/skumaran24/item-listing/refs/heads/main/images/bedside1.JPEG",
       "https://raw.githubusercontent.com/skumaran24/item-listing/refs/heads/main/images/bedside2.JPEG"
@@ -157,29 +157,11 @@
     "id": 12,
     "name": "Modem",
     "category": "Electronics",
-    "price": 200,
+    "price": 150,
     "description": "Reliable, high-speed modem.",
     "imageUrls": [
       "https://raw.githubusercontent.com/skumaran24/item-listing/refs/heads/main/images/modem1.JPEG",
       "https://raw.githubusercontent.com/skumaran24/item-listing/refs/heads/main/images/modem2.JPEG"
-    ],
-    "contact": "https://wa.me/60122988508"
-  },
-  {
-    "id": 13,
-    "name": "Microwave",
-    "category": "Electronics",
-    "price": 35,
-    "description": "Works perfectly, minimal usage.",
-    "imageUrls": [
-      "https://raw.githubusercontent.com/skumaran24/item-listing/refs/heads/main/images/microwave1.JPEG",      
-      "https://raw.githubusercontent.com/skumaran24/item-listing/refs/heads/main/images/microwave4.JPEG",
-      "https://raw.githubusercontent.com/skumaran24/item-listing/refs/heads/main/images/microwave5.JPEG",
-      "https://raw.githubusercontent.com/skumaran24/item-listing/refs/heads/main/images/microwave6.JPEG",
-      "https://raw.githubusercontent.com/skumaran24/item-listing/refs/heads/main/images/microwave7.JPEG",
-      "https://raw.githubusercontent.com/skumaran24/item-listing/refs/heads/main/images/microwave8.JPEG",
-      "https://raw.githubusercontent.com/skumaran24/item-listing/refs/heads/main/images/microwave9.JPEG",
-      "https://raw.githubusercontent.com/skumaran24/item-listing/refs/heads/main/images/microwave10.JPEG"
     ],
     "contact": "https://wa.me/60122988508"
   },

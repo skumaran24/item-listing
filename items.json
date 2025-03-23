@@ -140,18 +140,6 @@
     "contact": "https://wa.me/60122988508"
   },
   {
-    "id": 9,
-    "name": "Bedside Table",
-    "category": "Furniture",
-    "price": 49,
-    "description": "Compact and stylish, fits any bedroom decor. Two units available.",
-    "imageUrls": [
-      "https://raw.githubusercontent.com/skumaran24/item-listing/refs/heads/main/images/bedside1.JPEG",
-      "https://raw.githubusercontent.com/skumaran24/item-listing/refs/heads/main/images/bedside2.JPEG"
-    ],
-    "contact": "https://wa.me/60122988508"
-  },
-  {
     "id": 10,
     "name": "Washing Machine",
     "category": "Electronics",

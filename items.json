@@ -144,7 +144,7 @@
     "name": "Bedside Table",
     "category": "Furniture",
     "price": 49,
-    "description": "Compact and stylish, fits any bedroom decor. Two units for $90",
+    "description": "Compact and stylish, fits any bedroom decor. Two units available.",
     "imageUrls": [
       "https://raw.githubusercontent.com/skumaran24/item-listing/refs/heads/main/images/bedside1.JPEG",
       "https://raw.githubusercontent.com/skumaran24/item-listing/refs/heads/main/images/bedside2.JPEG"
